@@ -1,0 +1,23 @@
+case_no,correct_diagnosis,response_before,verdict_before,response_after,verdict_after
+1,Cerebral Malaria,Neurocysticercosis,Wrong,Neurosyphilis with Tertiary Syphilis,Wrong
+2,Sepsis,Sepsis secondary to urinary tract infection with underlying malignancy,Correct,Neurosyphilis with Tertiary Syphilis,Wrong
+3,"type I necrotizing fasciitis, sepsis ",Retroperitoneal abscess related to perforated appendicitis,Wrong,Colonic paragonimiasis with hypercalcemia,Wrong
+4,"Septic arthritis, impending avascular necrosis, brucella infection ",Septic Arthritis,Correct,"Acute Septic Arthritis with Intramuscular Edema, Septic Joint infection and Reproductive Health",Correct
+5,"sepsis, cellulitis, aortitis, tricuspid insufficiency, septic vegetation, endocarditis ",Septicemia with possible necrotizing fasciitis,Wrong,Neurosyphilis with Tertiary Syphilis*,Wrong
+6,"salmonella minor infection, sepsis, mycotic aortic aneurysm, aortitis, abscess, drug allergy ",Salmonella Mycotic Aneurysm with Infrarenal Aortitis,Correct,Colonic paragonimiasis with hypercalcemia,Wrong
+7, indigestion ,Vasovagal Syncope,Wrong,"Acute Septic Arthritis with Intramuscular Edema, Septic Joint infection and Reproductive Health*",Wrong
+8,urosepsis,Complicated Urinary Tract Infection with Epididymo-Orchitis,Wrong,Colonic paragonimiasis with hypercalcemia,Wrong
+9,Septic arthritis,Bilateral Shoulder Septic Arthritis with Epididymo-Orchitis and Gas-Forming Infection,Correct,Neurosyphilis with Tertiary Syphilis*,Wrong
+10,"Hemophagocytic Lymphohistiocytosis (HLH)
+",Hemophagocytic Lymphohistiocytosis (HLH) secondary to Rickettsial Infection,Correct,"Acute Septic Arthritis with Intramuscular Edema, Septic Joint infection and Reproductive Health*",Wrong
+11,periorbital cellulitis  ,Orbital Cellulitis,Wrong,Neurosyphilis with Tertiary Syphilis,Wrong
+12,"cardio-embolism, ischemic stroke ",Acute Ischemic Stroke with Vertebrobasilar Insufficiency,Correct,Colonic paragonimiasis with hypercalcemia,Wrong
+13,UC re-activation  ,ANCA-Associated Vasculitis (Possible Microscopic Polyangiitis),Wrong,"Acute Septic Arthritis with Intramuscular Edema, Septic Joint infection and Reproductive Health*",Wrong
+14,"viral myocarditis, viral sepsis ",Viral Myocarditis Secondary to Influenza A,Correct,Neurosyphilis with Tertiary Syphilis,Wrong
+15, Pseudomonas aeruginosa diarrhea,Clostridioides difficile Infection Complicated by Pseudomonas Aeruginosa,Wrong,Colonic paragonimiasis with hypercalcemia,Wrong
+16,Intrabullous hemorrhage,Pulmonary Hemorrhage due to Bronchial Rupture or Infection in COPD,Wrong,"Acute Septic Arthritis with Intramuscular Edema, Septic Joint infection and Reproductive Health",Wrong
+17,sexual disorder secondary to therapy,GalCGRP Blockade-Related Sexual Dysfunction,Correct,Neurosyphilis with Tertiary Syphilis,Wrong
+18,unprovoked superficial thrombophlebitis,Recurrent Superficial Thrombophlebitis with Underlying Malignancy,Correct,Colonic paragonimiasis with hypercalcemia,Wrong
+19,NOH,Neurogenic Orthostatic Hypotension (nOH) Due to Parkinsons Disease,Correct,"Acute Septic Arthritis with Intramuscular Edema, Septic Joint infection and Reproductive Health",Wrong
+20,"Carotid Sinus Hypersensitivity (CSS):
+",Carotid Sinus Hypersensitivity (CSH),Correct,Neurosyphilis with Tertiary Syphilis,Wrong

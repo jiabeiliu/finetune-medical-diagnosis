@@ -1,0 +1,15 @@
+{
+  "n_cases": 20,
+  "accuracy_before_finetuning": 0.55,
+  "accuracy_after_finetuning": 0.05,
+  "correct_before": 11,
+  "correct_after": 1,
+  "after_finetuning_response_distribution": {
+    "Neurosyphilis with Tertiary Syphilis": 6,
+    "Colonic paragonimiasis with hypercalcemia": 6,
+    "Acute Septic Arthritis with Intramuscular Edema, Septic Joint infection and Reproductive Health": 3,
+    "Neurosyphilis with Tertiary Syphilis*": 2,
+    "Acute Septic Arthritis with Intramuscular Edema, Septic Joint infection and Reproductive Health*": 3
+  },
+  "note": "Fine-tuned model collapsed to 3 repeated diagnoses (mode collapse)."
+}
